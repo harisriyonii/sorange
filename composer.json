@@ -1,0 +1,15 @@
+{
+    "name": "imyha/sorange",
+    "autoload": {
+        "psr-4": {
+            "Imyha\\Sorange\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "harisriyoni",
+            "email": "1214047@std.ac.id"
+        }
+    ],
+    "require": {}
+}
